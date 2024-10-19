@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f1f3f6;
+}
+header{
+    height: 67px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+header input{
+    display: flex;
+    width: 700px;
+    height: 5vh;
+    font-size: large;
+    margin-left: 40px;
+    background-color: rgb(238, 244, 255);
+    border: none;
+    border-radius: 5px;
+}
+.lcs{
+    display: flex;
+    gap: 72px;
+    margin-left: 50px;
+}
+.login{
+    display: flex;
+    align-items: center;
+}
+.login ul{
+    display: flex;
+    list-style: none;
+}
+.login ul li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 8px;
+    color: black;
+    font-size: large;
+}
+.cart{
+    display: flex;
+    align-items: center;
+}
+.cart ul{
+    list-style: none;
+    display: flex;
+}
+.cart ul li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    gap: 8px;
+    font-size: large;
+}
+.bas{
+    display: flex;
+    align-items: center;
+}
+.bas ul{
+    list-style: none;
+    display: flex;
+}
+.bas ul li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    gap: 8px;
+    font-size: large;
+}
+.tdot{
+    display: flex;
+    align-items: center;
+}
+.tdot ul{
+    list-style: none;
+    display: flex;
+}
+.tdot ul li a{
+    display: flex;
+    align-items: center;
+    
+}
+
+.nav{
+    display: flex;
+    background-color: #ffffff;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+div{
+    display: flex;
+
+}
+div ul{
+    display: flex;
+    list-style: none;
+}
+div ul li a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.ln{
+    display: flex;
+    background-color: #ffffff;
+    margin-top: 30px;
+    justify-content: center;
+    padding: 100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+input{
+    width: 300px;
+    border: none;
+}
+
